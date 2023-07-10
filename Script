@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaEXploitCoder/Roblox-Bedwars-Texture-Pack-Script/main/Code",true))()
